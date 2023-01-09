@@ -1,0 +1,46 @@
+{
+    "ads": [
+        {
+            "name": "laptop",
+            "sellOrBuy": true,
+            "price": 999.99,
+            "image": "../images/laptop.jpg",
+            "tags": [ "tech"]
+        },
+        {
+            "name": "cleaner",
+            "sellOrBuy": false,
+            "price": 25.00,
+            "image": "../images/cleaner.jpg",
+            "tags": [ "house", "services"]
+        },
+        {
+            "name": "smartPhone",
+            "sellOrBuy": true,
+            "price": 449.99,
+            "image": "../images/smartPhone.jpg",
+            "tags": [ "tech"]
+        },
+        {
+            "name": "used sneakers",
+            "sellOrBuy": true,
+            "price": 40,
+            "image": "../images/used_sneakers.jpg",
+            "tags": [ "secondhand"]
+        },
+        {
+            "name": "used chair",
+            "sellOrBuy": false,
+            "price": 35,
+            "image": "../images/used_chair.jpg",
+            "tags": [ "secondhand","house"]
+        },
+		{
+            "name": "translator",
+            "sellOrBuy": false,
+            "price": 80,
+            "image": "../images/translator.jpg",
+            "tags": [ "services"]
+        }
+    ]
+}
